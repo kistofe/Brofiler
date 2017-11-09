@@ -1,0 +1,7 @@
+﻿  j1App.cpp
+c:\users\cristianpl\desktop\dev_class11brofiler_handout\motor2d\j1app.cpp(222): warning C4018: '<': signed/unsigned mismatch
+c:\users\cristianpl\desktop\dev_class11brofiler_handout\motor2d\j1app.cpp(218): warning C4477: 'sprintf_s' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 6 has type 'uint64'
+  c:\users\cristianpl\desktop\dev_class11brofiler_handout\motor2d\j1app.cpp(218): note: consider using '%llu' in the format string
+  c:\users\cristianpl\desktop\dev_class11brofiler_handout\motor2d\j1app.cpp(218): note: consider using '%I64u' in the format string
+  Motor2D.vcxproj -> C:\Users\cristianpl\Desktop\Dev_class11Brofiler_handout\Debug\Development - Class 11 Handout.exe
+  Motor2D.vcxproj -> C:\Users\cristianpl\Desktop\Dev_class11Brofiler_handout\Debug\Development - Class 11 Handout.pdb (Partial PDB)
